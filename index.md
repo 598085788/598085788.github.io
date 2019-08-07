@@ -1,6 +1,5 @@
-<!DOCTYPE html>
-<html>
-<body>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+---
+title: my-first-blog
+date: 2019.8.7
+---
+# hello world
